@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 41,
+    "description": "Increased build height limit! Build from -1024 to +1024"
+  }
+}
